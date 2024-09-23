@@ -8,3 +8,5 @@ while num > 0:
     num = num // 10 
 
     print(f"Ciferny sucet cila {num_copy} je {sucet}")
+
+    
